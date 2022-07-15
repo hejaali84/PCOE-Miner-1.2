@@ -1,1 +1,2 @@
-hashlib
+https://pypi.org/project/hashlib/
+https://github.com/hejaali84/python-source/tree/main
